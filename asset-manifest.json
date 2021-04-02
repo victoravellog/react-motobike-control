@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-motobike-control/static/css/main.443cc70a.chunk.css",
+    "main.js": "/react-motobike-control/static/js/main.7d530e3c.chunk.js",
+    "main.js.map": "/react-motobike-control/static/js/main.7d530e3c.chunk.js.map",
+    "runtime-main.js": "/react-motobike-control/static/js/runtime-main.85987127.js",
+    "runtime-main.js.map": "/react-motobike-control/static/js/runtime-main.85987127.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/react-motobike-control/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.423fd9d5.chunk.js": "/react-motobike-control/static/js/2.423fd9d5.chunk.js",
+    "static/js/2.423fd9d5.chunk.js.map": "/react-motobike-control/static/js/2.423fd9d5.chunk.js.map",
+    "static/js/3.b72d6596.chunk.js": "/react-motobike-control/static/js/3.b72d6596.chunk.js",
+    "static/js/3.b72d6596.chunk.js.map": "/react-motobike-control/static/js/3.b72d6596.chunk.js.map",
+    "index.html": "/react-motobike-control/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/react-motobike-control/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.443cc70a.chunk.css.map": "/react-motobike-control/static/css/main.443cc70a.chunk.css.map",
+    "static/js/2.423fd9d5.chunk.js.LICENSE.txt": "/react-motobike-control/static/js/2.423fd9d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85987127.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.423fd9d5.chunk.js",
+    "static/css/main.443cc70a.chunk.css",
+    "static/js/main.7d530e3c.chunk.js"
+  ]
+}
